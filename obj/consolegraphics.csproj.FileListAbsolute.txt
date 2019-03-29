@@ -1,0 +1,5 @@
+C:\Hi - Copy (100)\bin\Debug\obj\Debug\ResolveAssemblyReference.cache
+C:\Hi - Copy (100)\bin\Debug\bin\Debug\consolegraphics.dll
+C:\Hi - Copy (100)\bin\Debug\bin\Debug\consolegraphics.pdb
+C:\Hi - Copy (100)\bin\Debug\obj\Debug\consolegraphics.dll
+C:\Hi - Copy (100)\bin\Debug\obj\Debug\consolegraphics.pdb
